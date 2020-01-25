@@ -1,0 +1,11 @@
+c:\users\chathura\documents\visual studio 2015\Projects\Sapi_VB\Sapi_VB\bin\Debug\Sapi_VB.exe.config
+c:\users\chathura\documents\visual studio 2015\Projects\Sapi_VB\Sapi_VB\bin\Debug\Sapi_VB.exe
+c:\users\chathura\documents\visual studio 2015\Projects\Sapi_VB\Sapi_VB\bin\Debug\Sapi_VB.pdb
+c:\users\chathura\documents\visual studio 2015\Projects\Sapi_VB\Sapi_VB\bin\Debug\Sapi_VB.xml
+c:\users\chathura\documents\visual studio 2015\Projects\Sapi_VB\Sapi_VB\obj\Debug\Sapi_VB.vbprojResolveAssemblyReference.cache
+c:\users\chathura\documents\visual studio 2015\Projects\Sapi_VB\Sapi_VB\obj\Debug\Sapi_VB.Form1.resources
+c:\users\chathura\documents\visual studio 2015\Projects\Sapi_VB\Sapi_VB\obj\Debug\Sapi_VB.Resources.resources
+c:\users\chathura\documents\visual studio 2015\Projects\Sapi_VB\Sapi_VB\obj\Debug\Sapi_VB.vbproj.GenerateResource.Cache
+c:\users\chathura\documents\visual studio 2015\Projects\Sapi_VB\Sapi_VB\obj\Debug\Sapi_VB.exe
+c:\users\chathura\documents\visual studio 2015\Projects\Sapi_VB\Sapi_VB\obj\Debug\Sapi_VB.xml
+c:\users\chathura\documents\visual studio 2015\Projects\Sapi_VB\Sapi_VB\obj\Debug\Sapi_VB.pdb
